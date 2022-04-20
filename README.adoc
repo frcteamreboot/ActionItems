@@ -1,0 +1,16 @@
+= Action Items Repository
+Joshua Turner
+:sectlinks:
+
+Repository for tracking action items and the progress of related projects.
+
+== Tech Stack
+Git:: Version control tool for source code see: https://git-scm.com/.
+GitHub:: Website that will host Git repositories.
+GitHub Desktop (optional):: Useful for non-programmers who want to make commits without the extra ssh setup
+AsciiDoc:: The document markup language (such as the source for this document). Like a simpler form of HTML that this site will render to look nice. See: https://en.wikipedia.org/wiki/AsciiDoc.
+AsciiDoctor:: Tools for converting AsciiDoc to formats other than html (PDF). Needs Ruby.
+Ruby(optional):: For AsciiDoctor scripting.
+
+=== Editors
+Intellij or VSCode are recommended with the relevant AsciiDoc and Ruby extensions.
