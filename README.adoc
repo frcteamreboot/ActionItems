@@ -14,3 +14,4 @@ Ruby(optional):: For AsciiDoctor scripting.
 
 === Editors
 Intellij or VSCode are recommended with the relevant AsciiDoc and Ruby extensions.
+A good online edit tool: https://asciidoclive.com/
