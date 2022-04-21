@@ -11,7 +11,25 @@ GitHub Desktop (optional):: Useful for non-programmers who want to make commits 
 AsciiDoc:: The document markup language (such as the source for this document). Like a simpler form of HTML that this site will render to look nice. See: https://en.wikipedia.org/wiki/AsciiDoc.
 AsciiDoctor:: Tools for converting AsciiDoc to formats other than html (PDF). Needs Ruby.
 Ruby(optional):: For AsciiDoctor scripting.
+Markdown:: Issues are edited with markdown (https://www.markdownguide.org/).
+It does the same thing as Asciidoc while being more common and simpler but less powerful.
+Cheat Sheet: https://www.markdownguide.org/cheat-sheet/
 
 === Editors
 Intellij or VSCode are recommended with the relevant AsciiDoc and Ruby extensions.
 A good online edit tool: https://asciidoclive.com/
+
+== Creating an action item
+
+. Create an issue on this repository:
+.. List known tasks
+.. List any working groups that need to be concerned
+. Assign, at first, to self and/or co-authors of the issue
+. Add labels:
+.. add the "new action item"
+.. any labels for concerned working groups
+. Create a branch from the issue if a project is needed
+.. commit a project tracking document to the branch
+.. update the project tracking document with task progress
+
+Steps 3 onward can be done after the issue is created.
